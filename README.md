@@ -6,9 +6,7 @@ in the browser.
 
 ---
 
-## Live Demo
 
-> _Add your live link here (Netlify / GitHub Pages / Vercel)_
 
 ---
 
