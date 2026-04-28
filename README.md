@@ -33,5 +33,4 @@ in the browser.
 | JavaScript | Game Logic & Win Detection |
 
 
-1. **Clone the repository**
-```bash
+
